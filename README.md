@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nehal8600
-- 👀 I’m interested in ... girls..on my girl 
-- 🌱 I’m currently learning ... node js
+- 👀 I’m interested in ... cybersecurity 
+- 🌱 I’m currently learning ... releted topics
 - 💞️ I’m looking to collaborate on ...practice
 - 📫 How to reach me ...fb 
 
